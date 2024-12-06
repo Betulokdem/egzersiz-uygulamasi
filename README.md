@@ -1,13 +1,5 @@
-egzersiz-uygulamasi3/
-│
-├── server.js         # Ana dosya
-├── .env              # Çevresel değişkenler
-├── models/           # MongoDB modelleri
-│   └── User.js       # Kullanıcı model dosyası
-├── routes/           # API rotaları
-│   └── auth.js       # Giriş (login) ve kullanıcı oluşturma (signup)
-└── config/           # Veritabanı bağlantısı
-    └── db.js 
+egzersiz-uygulamasi3:   server.js/.env/models(User.js)/routes(auth.js)/config(db.js)
+ 
 (package.json ile package-lock.json kendi oluşuyor)
 
      cmd TERMİNAL KODLARI:
